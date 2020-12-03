@@ -11,7 +11,7 @@ export default function App() {
         <br/>
       
          <TimerClock/>
-         <Main/>
+         
          <br/>
          
          <Main/>
